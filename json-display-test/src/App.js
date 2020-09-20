@@ -27,13 +27,13 @@ class App extends React.Component {
     render() {
         return (
             <div>
-                {/* {this.state.lists.map((lists) => {
+                {this.state.lists.map((lists) => {
           return(
-            <div key={lists.id}>
+            <div key={lists.Employees}>
               <h3>{JSON.stringify(lists.Employees)}</h3>
             </div>
           )
-        })} */}
+        })}
 
                 <div>
                     <h1>Hello World!</h1>
