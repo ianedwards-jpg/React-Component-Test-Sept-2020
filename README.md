@@ -14,3 +14,14 @@ In the project directory, you can run:
 Runs the app in the development mode.<br />
 10
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+​
+12
+The page will reload if you make edits.<br />
+13
+You will also see any lint errors in the console.
+14
+​
+15
+### `npm test`
+
